@@ -1,5 +1,9 @@
 # State Legislature Election Modeling
 
+![State Senates Map](img/state_senates_map.png)
+
+Credit: [National Conference of State Legislatures](https://www.ncsl.org/research/elections-and-campaigns/district-by-district-state-legislative-control.aspx)
+
 ## [Presentation](presentation.pdf)
 
 ## Goal
